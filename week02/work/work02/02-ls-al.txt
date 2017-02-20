@@ -1,6 +1,0 @@
-total 16
-drwxr-xr-x 2 ilyas.fahreza StafCS 4096 Feb 20 11:27 .
-drwxr-xr-x 3 ilyas.fahreza StafCS 4096 Feb 20 11:23 ..
--rw-r--r-- 1 ilyas.fahreza StafCS 1559 Feb 20 11:26 00-toc.txt
--rw-r--r-- 1 ilyas.fahreza StafCS 3108 Feb 20 11:27 01-public-osteam.txt
--rw-r--r-- 1 ilyas.fahreza StafCS    0 Feb 20 11:27 02-ls-al.txt
