@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/i/ilyas.fahreza/.gnupg/pubring.gpg
+-----------------------------------------------------------
+pub   4096R/E0B249BB 2017-02-20 [expires: 2017-08-19]
+uid                  Ilyas Fahreza (studying OS) <ilyas.fahreza@ui.ac.id>
+sub   4096R/4BAB4071 2017-02-20 [expires: 2017-08-19]
+
