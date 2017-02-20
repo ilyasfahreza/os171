@@ -1,1 +1,3 @@
 w01-170217-13-PS-About: Learning OS from Week 1 Task, Intro to CLI, GIT and Scripting, fortunately, it was fun :)
+w02-170220-11-PS-About: Learing OS from Week 2 Task, Intro about key encrypting, C fortunately, it was fun :)
+
