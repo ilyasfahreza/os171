@@ -2,3 +2,4 @@ w01-170217-13-PS-About: Learning OS from Week 1 Task, Intro to CLI, GIT and Scri
 w02-170220-11-PS-About: Learing OS from Week 2 Task, Intro about key encrypting, C fortunately, it was fun :)
 w03-170228-13-PS-About: Learning OS from Week 3 Task, Intro about BIOS, boot, and UpStart, fortunatelu, it was fun :)
 w04-170308-19-PS-About: Learning about the differences between global variable and local variable, pointer, Linus I/O system, fortunately, it was fun ;)
+w05-170318-19-PS-About: Learning OS from Week 5 Task, about memory and it was fun :)
