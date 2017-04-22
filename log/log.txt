@@ -4,3 +4,5 @@ w03-170228-13-PS-About: Learning OS from Week 3 Task, Intro about BIOS, boot, an
 w04-170308-19-PS-About: Learning about the differences between global variable and local variable, pointer, Linus I/O system, fortunately, it was fun ;)
 w05-170318-19-PS-About: Learning OS from Week 5 Task, about memory and it was fun :
 w06-170411-19-PS-About : Forking :)
+w07-170420-13-LS-About : Learn about Scheduling in lecture and its process
+w07-170422-12-PS-About : Learning about Sync in Weekly task
