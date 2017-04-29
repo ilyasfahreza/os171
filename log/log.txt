@@ -6,3 +6,5 @@ w05-170318-19-PS-About: Learning OS from Week 5 Task, about memory and it was fu
 w06-170411-19-PS-About : Forking :)
 w07-170420-13-LS-About : Learn about Scheduling in lecture and its process
 w07-170422-12-PS-About : Learning about Sync in Weekly task
+w08-170428-17-PS-About : Learning about Socket from Weekly Task with friends.
+w08-170429-08-PS-About : Learning about Socket
