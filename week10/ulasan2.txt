@@ -1,0 +1,12 @@
+Dalam pembelajaran OS kali ini, saya akan mereview video yang baru saja saya tonton, yaitu "This SSD is better than a hard drive RAID0" dimana video tersebut membahas perbandingan penggunaan SSD dengan hard drive RAID0 biasa. Video berdurasi 03.24 menit yang diunggal oleh EposVox ini telah ditonton sebanyak 1,131 kali dan memiliki rating yang positif antara likes dan dislikes nya.
+
+Dalam video tersebut, EposVox menjelaskan bahwa investasi pembelian SSD sangat berguna baginya. Karena dengan investasi tersebut, kita dapat mendapatkan 637MB/sec untuk Write Speed serta 819MB/sec untuk Read Speed nya. Dengan SSD ini, kita dapat menjalankan full 8-bit serta 10-bit kualitas video yang masih raw dan belum di-compress. Dengan kemampuan tersebut, komputer dapat menjalankan video dengan kualitas mencapai 8K. SSD sebagai sistem boot dan perangkat program dengan big SATA SSD untuk storage penyimpanan, dapat memungkinkan terciptanya sistem yang paling resposif yang pernah ada.
+
+GITHUB Account : ilyasfahreza
+URL Ulasan : http://ilyasf-os.blogspot.co.id/2017/05/ulasan-2-week-9-this-ssd-is-better-than.html
+URL Konten Youtube : https://youtu.be/FPP4p-c6YMs (durasi 03.24)
+Video Author : EposVox
+Pemetaan Konten : Week 09
+Revisi Pertama : 19 Mei 2017
+Revisi Terakhir : 19 Mei 2017
+
