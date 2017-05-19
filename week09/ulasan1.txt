@@ -1,0 +1,11 @@
+lam pembelajaran OS kali ini, saya akan mereview video yang baru saja saya tonton, yaitu "Basic Unix Commands" dimana video tersebut membahas perintah-perintah esensial yang sering kita gunakan di CLI (Command Line Interface) untuk mengoperasikan Sistem Operasi, sebagai alternatif dari GUI yang lebih umum kita gunakan. Video berdurasi 13.20 menit yang diunggal oleh Varun Agarwal ini telah ditonton sebanyak 87,636 kali dan memiliki rating yang positif antara likes dan dislikes nya.
+
+Video tersebut memiliki visual yang sederhana namun apik, karena divisualisasikan seolah-olah adalah papan tulis, membantu kita menjadi lebih fokus seakan-akan kita belajar di kelas OS langsung. Serta penyampaian setiap materinya dengan tempo yang tepat dimana materi disampaikan secara bertahap dari perintah-perintah dasar sampai perintah unik yang ternyata cukup berguna untuk kita gunakan. Karena, selama ini saya pribadi selalu hanya menggunakan perintah perintah umum yang terdapat di soal OS, seperti "ls -al" "cd" "rm" tidak menggunakan perintah lain yang ternyata ada yang berguna, seperti menggunakan "kill" untuk memberhentikan process, dibanding harus mengakses task manager melalui CTRL+ALT+DEL, penggunaan-penggunaan perintah CLI dapat mempercepat proses yang sering kita gunakan, agar dapat menghemat waktu produktivitas juga :)!
+
+GITHUB Account : ilyasfahreza
+URL Ulasan : http://ilyasf-os.blogspot.co.id/2017/05/ulasan-1-week-1-basic-unix-commands.html
+URL Konten Youtube : https://youtu.be/3DA1grSp4mU (durasi13.20)
+Video Author : ThrottleTechGamer
+Pemetaan Konten : Week 09
+Revisi Pertama : 19 Mei 2017
+Revisi Terakhir : 19 Mei 2017
